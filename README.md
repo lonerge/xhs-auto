@@ -1,3 +1,5 @@
+[中文](README.md) | [English](README_EN.md)
+
 # ✨ XHS-Auto (小红书自动化工具) | 适用App版本: 9.9.0及以上
 
 欢迎使用 **XHS-Auto**，这是一款基于 **OCR识别 + 无障碍服务** 构建的移动端自动化工具。  
