@@ -110,7 +110,3 @@ dongdonglongbbb@gmail.com
 如果这个项目对你有所帮助，可以请我喝杯咖啡 ☕
 
 该赞赏仅用于支持开源项目维护与开发，并不提供任何商业服务或售后支持。
-
-<p align="center">
-<img src="wechat_pay.png" width="260">
-</p>
