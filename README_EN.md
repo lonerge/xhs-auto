@@ -129,3 +129,4 @@ If you have any questions or suggestions, feel free to contact the developer.
 If you find this project helpful, you can support the development by buying me a coffee ☕
 
 Your support helps maintain and improve this open-source project.
+
